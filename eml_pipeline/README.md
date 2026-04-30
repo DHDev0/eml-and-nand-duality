@@ -1,6 +1,6 @@
 # EML–NAND Duality Pipeline
 
-A complete bidirectional compilation/decompilation pipeline implementing the mathematical framework from **"The EML–NAND Duality: A Mathematical Bridge Between Continuous and Discrete Universality"** by Daniel Derycke (2026), arXiv:2603.21852.
+A complete bidirectional compilation/decompilation pipeline implementing the mathematical framework from **"The EML–NAND Duality: A Mathematical Bridge Between Continuous and Discrete Universality"** by Daniel Derycke (2026).
 
 ---
 
